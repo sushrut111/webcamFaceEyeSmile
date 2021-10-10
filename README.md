@@ -40,4 +40,4 @@ Your camera should start capturing. Try to smile naturally and say cheese!
 
 ## Haar cascade
 1. The script uses the classifiers created by haar cascade and are in `./haarcascades` directory.
-2. These classifiers are copied from the (opencv repository)[https://github.com/opencv/opencv/tree/master/data/haarcascades]
+2. These classifiers are copied from the [opencv repository](https://github.com/opencv/opencv/tree/master/data/haarcascades)
